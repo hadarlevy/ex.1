@@ -13,5 +13,6 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharm')
     print(Abs (3.0*(4.0/3.0-1)-1))
+    print(576)
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
