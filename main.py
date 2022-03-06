@@ -14,6 +14,7 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharm')
     print(sys.float_info.epsilon-abs(3.0*(4.0/3.0-1)-1))
+    """print(int(abs(3.0*(4.0/3.0-1)-1))"""
 
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
