@@ -1,6 +1,5 @@
 # This is a sample Python script.
-import sys
-
+import math
 # Press Shift+F10 to execute it or replace it with your code.
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
@@ -13,6 +12,6 @@ def print_hi(name):
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('PyCharm')
-    print(sys.float_info.epsilon-abs(3.0*(4.0/3.0-1)-1))
+    print(Abs (3.0*(4.0/3.0-1)-1))
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
